@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple JSON Viewer</string>
+    <string name="main_activity_name">Products</string>
+    <string name="transaction_count">%s transactions</string>
+    <string name="details_activity_name">Transactions for %1$s</string>
+    <string name="details_activity_total">Total: %1$s</string>
+    <string name="empty_file_error">Empty JSON File</string>
+    <string name="converter_is_not_ready_error">Currency Converter is not ready yet, please wait</string>
+</resources>
